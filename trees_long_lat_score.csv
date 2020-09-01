@@ -1,4 +1,4 @@
-ID,lat,long,trees,score,points,description
+ID,lat,lon,trees,score,points,description
 2,53.26524,10.39847,1,2.1,yellow,good
 6,53.26449,10.39852,1,1.1,green,excellent
 9,53.26456,10.39807,2,1.1,green,excellent
